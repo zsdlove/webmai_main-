@@ -63,11 +63,12 @@ try {
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
+/*
 测试地址：http://webmail.unionpay.com
 测试账号：
 username:test
 password:unionpay123!
-
+*/
 ```
 
 更新记录
