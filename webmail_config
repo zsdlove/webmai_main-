@@ -30,7 +30,13 @@ public class JavaMailDemo {
 
     msg.setSubject("这是来自send_test的测试邮件");
     msg.setContent("这就是一封垃圾邮件！", "text/html;charset=utf-8");
-
+    /*         测试账号：test1/unionpay123
+                        test2/unionpay123
+                        test33/unionpay33
+                        unionpayadmin/shunionpay2019      */
+    /* 收件人测试账号：UnionPay2019@163.com       */
+    
+    
     /*
      * 3. 发邮件
      */
